@@ -24,7 +24,7 @@ html_tag="""
 if uploaded_file is None:
     
     st.markdown('''Please export your WhatsApp chat (without media), whether it be a group chat or an individual/private chat, then click on "Browse Files" and upload it to this platform.''')
-    st.markdown('''Whtsapp Chat will be in text Format, so You can simply export chat  as Follows:Open Whatsapp-->Click on any contact/Group-->Tap on 3 dots-->Click on More-->Click on Export Chat-->Click on without media''')
+    st.markdown('''Whtsapp Chat will be in text Format, so You can simply export chat  as Follows: Open Whatsapp --> Click on any contact/Group --Tap on 3 dot --> Click on More --> Click on Export Chat --> Click on without media''')
     st.markdown('''Afterward, kindly proceed to click on the "Analyse" button. This action will generate a variety of insights concerning your conversation.''')
     st.markdown(''' You will have the option to select the type of analysis, whether it is an overall analysis or one that specifically focuses on particular participants' analysis.''')
     st.markdown('Thank You!')
