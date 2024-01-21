@@ -3,7 +3,7 @@
 <p align="center"><img src="https://socialify.git.ci/neerajcodes888/Whatsapp-Chat-Analyzer/image?description=1&amp;descriptionEditable=&amp;font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">This Python application provides a simple yet effective way to analyze WhatsApp chat data using various libraries such as pandas urlextract wordcloud seaborn and Streamlit.</p>
-<h2>Project Screenshots:</h2>
+<h2>💻 Project Screenshots:</h2>
 
 ![chat analyzer](https://github.com/neerajcodes888/Whatsapp-Chat-Analyzer/assets/98253646/652789b1-12ad-4b54-8ccd-ee717e04ae90)
 
@@ -49,15 +49,26 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 Technologies used in the project:
 
-*   Python
-*   Pandas
-*   Streamlit
-*   URLExtrat
-*   WordCloud
-*   Seaborn
+- **Python**: The core programming language for the application.
 
-  <h2>🛡️ License:</h2>
+- **Pandas**: A powerful data manipulation library in Python, used for handling and analyzing the WhatsApp chat data.
+
+- **Urlextract**: A Python library for extracting URLs from text, employed to identify and analyze URLs shared in the chat.
+
+- **Wordcloud**: A library for creating word clouds, utilized to visualize the most frequently used words in the chat.
+
+- **Seaborn**: A statistical data visualization library based on Matplotlib, used for creating appealing and informative visualizations.
+
+- **Streamlit**: A web framework for creating interactive web applications with Python, employed to create the user-friendly interface for exploring chat statistics.
+
+<h2>🛡️ License:</h2>
 
 This project is licensed under the MIT Licence
 
+<h2>🙏 Acknowledgments:</h2>
 
+Special thanks to the developers of pandas, urlextract, wordcloud, seaborn, and Streamlit for creating these powerful libraries
+
+Happy analyzing your WhatsApp chats! 📊📱
+
+  
