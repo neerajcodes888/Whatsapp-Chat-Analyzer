@@ -67,7 +67,7 @@ Technologies used in the project:
 
 - **Streamlit**: A web framework for creating interactive web applications with Python, employed to create the user-friendly interface for exploring chat statistics.
 
-<h2>Additional Content</h2>
+<h2>📑 Additional Content</h2>
 
 ``Preprocessing``
 
