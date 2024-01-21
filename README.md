@@ -3,7 +3,7 @@
 <p align="center"><img src="https://socialify.git.ci/neerajcodes888/Whatsapp-Chat-Analyzer/image?description=1&amp;descriptionEditable=&amp;font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">This Python application provides a simple yet effective way to analyze WhatsApp chat data using various libraries such as pandas urlextract wordcloud seaborn and Streamlit.</p>
-<h2>💻 Project Screenshots:</h2>
+<h2>📷 Project Screenshots:</h2>
 
 ![chat analyzer](https://github.com/neerajcodes888/Whatsapp-Chat-Analyzer/assets/98253646/652789b1-12ad-4b54-8ccd-ee717e04ae90)
 
