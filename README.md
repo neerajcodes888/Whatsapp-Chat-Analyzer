@@ -17,9 +17,15 @@
 
 Here're some of the project's best features:
 
-*   Basic Statistics
-*   Word Cloud
-*   URL Statistics
+1. **Basic Statistics**
+   - Number of Messages
+   - Number of Participants
+
+2. **Word Cloud**
+   - Visual representation of the most frequently used words in the chat.
+
+3. **URL Statistics**
+   - Identification and analysis of top URLs shared in the chat.
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -60,6 +66,16 @@ Technologies used in the project:
 - **Seaborn**: A statistical data visualization library based on Matplotlib, used for creating appealing and informative visualizations.
 
 - **Streamlit**: A web framework for creating interactive web applications with Python, employed to create the user-friendly interface for exploring chat statistics.
+
+<h2>Additional Content</h2>
+
+``Preprocessing``
+
+The script performs basic preprocessing on the chat text, converting it to lowercase. You can extend the preprocess_text function in whatsapp_analyzer.py for more advanced text processing.
+
+``Word Cloud Customization``
+
+The Word Cloud visualization can be customized further by modifying the parameters in the generate_wordcloud function. Refer to the wordcloud documentation for more options.
 
 <h2>🛡️ License:</h2>
 
