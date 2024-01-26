@@ -7,17 +7,8 @@
 
 ![chat analyzer](https://github.com/neerajcodes888/Whatsapp-Chat-Analyzer/assets/98253646/652789b1-12ad-4b54-8ccd-ee717e04ae90)
 
-<h2>🚀 Demo</h2>
 
-<div align="center">
-  
-[Whatsapp Chat Analyzer (Deployed Link)](https://whatsapp-chat-analyzer-qnlxnecayatmyne7hzsa7h.streamlit.app/)
-  
-</div>
-
-
-  
-  
+    
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
