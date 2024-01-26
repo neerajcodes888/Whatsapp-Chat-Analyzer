@@ -5,9 +5,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.sidebar.title('WhatsApp Chat Analyzer')
+st.markdown('''Uploaded File will be removed automatically after 1 hour of Upload''')
 
 uploaded_file = st.sidebar.file_uploader("Choose a File")
-st.markdown('''Uploaded File will be removed automatically after 1 hour of Upload''')
+
 
 if uploaded_file is None:
     
