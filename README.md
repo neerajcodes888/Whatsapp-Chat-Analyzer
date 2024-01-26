@@ -9,7 +9,8 @@
 
 <h2>🚀 Demo</h2>
 
-[https://whatsapp-chat-analyzer-qnlxnecayatmyne7hzsa7h.streamlit.app/](https://whatsapp-chat-analyzer-qnlxnecayatmyne7hzsa7h.streamlit.app/)
+[](https://whatsapp-chat-analyzer-qnlxnecayatmyne7hzsa7h.streamlit.app/)
+
 
   
   
