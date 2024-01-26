@@ -10,7 +10,9 @@
 <h2>🚀 Demo</h2>
 
 <div align="center">
+  
 [Whatsapp Chat Analyzer (Deployed Link)](https://whatsapp-chat-analyzer-qnlxnecayatmyne7hzsa7h.streamlit.app/)
+  
 </div>
 
 
