@@ -28,7 +28,8 @@ Here're some of the project's best features:
 <p>1. Clone this repository to your local machine.</p>
 
 ```
-git clone https://github.com/your-username/Whatsapp-Chat-Analyzer.git cd Whatsapp-Chat-Analyzer
+git clone https://github.com/neerajcodes888/Whatsapp-Chat-Analyzer.git cd Whatsapp-Chat-Analyzer
+
 ```
 
 <p>2. Run the Streamlit app:</p>
