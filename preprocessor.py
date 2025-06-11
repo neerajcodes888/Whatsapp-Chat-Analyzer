@@ -42,7 +42,8 @@ def preprocess(data):
     df.drop(columns=['user_msg'], inplace=True)
 
     # Convert Date Column into DateTime format
-    df['date'] = pd.to_datetime(df['date'])
+    df['date'] = pd.to_datetime(df['date'], format='%d/%m/%Y, %H:%M', errors='coerce')
+
     df['year'] = df['date'].dt.year
     df['month'] = df['date'].dt.month_name()
     df['day'] = df['date'].dt.day_name()
